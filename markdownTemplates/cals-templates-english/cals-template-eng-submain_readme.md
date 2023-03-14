@@ -1,32 +1,18 @@
-## Introduction
-This README template is designed to help you create a clear and concise documentation for your project. It provides a basic structure that you can use as a starting point for your own README file.
+# Projectname
+<font size="2px">description</font>
 
-## Features
-- Simple and easy to use
-- Provides a clear structure for your project documentation
-- Includes sections for project overview, installation instructions, usage examples, and more
-- Can be easily customized to fit your specific project needs
+## About
+Write a short summary of your project here. Why you created this project. What is the purpose of this project.
 
-## Getting Started
-To use this template, simply copy and paste the content into your own README file and replace the placeholder text with your own content.
 
-### Prerequisites
-Before you begin, make sure you have the following installed:
-- [List any software or tools that are required for your project]
+## Contribute 🤝
+Write here how to participate in your project and where to look it up
 
-### Installation
-To install [project name], follow these steps:
-1. [Step-by-step installation instructions]
+## Suggestions
+Write here how others can share their ideas with you and where to look it up.
 
-### Usage
-To use [project name], follow these steps:
-1. [Step-by-step usage instructions]
+## Updates
+Write here where you can find new updates to your project.
 
-## Contributing
-If you would like to contribute to [project name], please [describe how to contribute, such as creating a pull request or contacting the project team].
-
-## License
-This project is licensed under the [Insert License Here] License - see the [LICENSE.md](http://license.md/) file for details.
-
-## Acknowledgments
-- [List any individuals or resources that you would like to acknowledge]
+---
+<font size="1px">&copy; Max Mustermann; Copyright 2022 All Rights Reserved.</font>
