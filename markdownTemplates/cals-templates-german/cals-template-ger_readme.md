@@ -1,32 +1,34 @@
-## Introduction
-This README template is designed to help you create a clear and concise documentation for your project. It provides a basic structure that you can use as a starting point for your own README file.
+## Einleitung
+Diese README-Vorlage soll Ihnen helfen, eine klare und übersichtliche Dokumentation für Ihr Projekt zu erstellen. Sie bietet eine Grundstruktur, die Sie als Ausgangspunkt für Ihre eigene README-Datei verwenden können.
 
-## Features
-- Simple and easy to use
-- Provides a clear structure for your project documentation
-- Includes sections for project overview, installation instructions, usage examples, and more
-- Can be easily customized to fit your specific project needs
+## Merkmale
+- Einfach und leicht zu benutzen
+- Bietet eine klare Struktur für Ihre Projektdokumentation
+- Enthält Abschnitte für Projektübersicht, Installationsanweisungen, Anwendungsbeispiele und mehr
+- Kann leicht an Ihre spezifischen Projektanforderungen angepasst werden
 
-## Getting Started
-To use this template, simply copy and paste the content into your own README file and replace the placeholder text with your own content.
+## Erste Schritte
+Um diese Vorlage zu verwenden, kopieren Sie einfach den Inhalt und fügen ihn in Ihre eigene README-Datei ein und ersetzen den Platzhaltertext durch Ihren eigenen Inhalt.
 
-### Prerequisites
-Before you begin, make sure you have the following installed:
-- [List any software or tools that are required for your project]
+### Voraussetzungen
+Bevor Sie beginnen, stellen Sie sicher, dass Sie Folgendes installiert haben:
+- [Führen Sie alle Software oder Tools auf, die für Ihr Projekt erforderlich sind]
 
 ### Installation
-To install [project name], follow these steps:
-1. [Step-by-step installation instructions]
+Um [Projektname] zu installieren, gehen Sie folgendermaßen vor:
+1. [Schritt-für-Schritt-Anleitung zur Installation]
 
-### Usage
-To use [project name], follow these steps:
-1. [Step-by-step usage instructions]
+### Verwendung
+Um [Projektname] zu verwenden, gehen Sie folgendermaßen vor:
+1. [Schritt-für-Schritt-Anleitung zur Verwendung]
 
-## Contributing
-If you would like to contribute to [project name], please [describe how to contribute, such as creating a pull request or contacting the project team].
+## Beitrag leisten
+Wenn Sie einen Beitrag zu [Projektname] leisten möchten, beschreiben Sie bitte [wie Sie einen Beitrag leisten können, z.B. indem Sie einen Pull-Request erstellen oder sich an das Projektteam wenden].
 
-## License
-This project is licensed under the [Insert License Here] License - see the [LICENSE.md](http://license.md/) file for details.
+## Lizenz
+Dieses Projekt steht unter der [Lizenz hier einfügen] Lizenz - siehe die [LICENSE.md](http://license.md/) Datei für Details.
 
-## Acknowledgments
-- [List any individuals or resources that you would like to acknowledge]
+## Danksagungen
+- [Listen Sie alle Personen oder Ressourcen auf, die Sie erwähnen möchten]
+
+Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
