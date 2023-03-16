@@ -1,5 +1,6 @@
 ## Introduction
 Markdown Layouts for a better look.
+Made with Markdown and HTML
 
 ## Features
 - Simple and easy to use
